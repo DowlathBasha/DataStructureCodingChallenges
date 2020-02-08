@@ -1,5 +1,9 @@
 package io.dowlathbasha.datastructurecoding.array;
-
+/*
+*
+*   @Author Dowlath Basha G
+*
+*/
 public class Arrange0sAND1s {
 	public static void main(String args[]) {
 		int[] a = { 1, 1, 1, 0, 0, 1, 1, 0 };

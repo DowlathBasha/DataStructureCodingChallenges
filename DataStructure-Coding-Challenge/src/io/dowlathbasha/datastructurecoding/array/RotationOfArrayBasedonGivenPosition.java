@@ -1,5 +1,9 @@
 package io.dowlathbasha.datastructurecoding.array;
-
+/*
+*
+*   @Author Dowlath Basha G
+*
+*/
 public class RotationOfArrayBasedonGivenPosition {
       public static void main(String args[]) {
     	  int[] a = {201,43,12,55};

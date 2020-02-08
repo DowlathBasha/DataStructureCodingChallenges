@@ -1,5 +1,9 @@
 package io.dowlathbasha.datastructurecoding.array;
-
+/*
+*
+*   @Author Dowlath Basha G
+*
+*/
 // RRGGBB
 public class OrderBallsBasedOnColor {
 	public static void main(String args[]) {
